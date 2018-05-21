@@ -2,6 +2,6 @@
 
 This repository includes:
 
-1. my .vimrc file
+1 .vimrc file
 
-2. my redshift config file
+2 redshift config file
